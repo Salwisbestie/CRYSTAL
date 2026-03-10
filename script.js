@@ -181,8 +181,7 @@ popup.style.height = popupHeight + "px";
     const video = document.createElement("video");
     video.autoplay = true;
     video.loop = true;
-    video.muted = false;
-    video.volume = 0.6; //Los popups suelen requerir estar muteados para autoplay infinito
+    video.muted = false; //Los popups suelen requerir estar muteados para autoplay infinito
     video.playsInline = true; // OBLIGATORIO PARA IOS
     video.setAttribute("webkit-playsinline", "true"); // Extra para versiones viejas de Safari
 
@@ -205,6 +204,7 @@ popupsActivos.push(popup);
 
 
 });
+
 
 
 
