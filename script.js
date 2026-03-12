@@ -55,26 +55,7 @@ document.addEventListener("DOMContentLoaded", () => {
 { tipo: "video", src: "media/videos/crystalknight_-2031367334703583277-01.mp4"},
 { tipo: "video", src: "media/videos/crystalknight_-2031378943811477540-01.mp4"},
 { tipo: "video", src: "media/videos/crystalknight_-2031460865929527298-01.mp4"},
-{ tipo: "video", src: "media/videos/crystalknight_-2031460895138660636-01.mp4"},
-{ tipo: "video", src: "media/videos/Ellie_Idol-1849175459956720090-01.mp4"},
-{ tipo: "video", src: "media/videos/Ellie_Idol-1849538099233124716-01.mp4"},
-{ tipo: "video", src: "media/videos/Ellie_Idol-1849900739180757476-01.mp4"},
-{ tipo: "video", src: "media/videos/Ellie_Idol-1849968011672944730-01.mp4"},
-{ tipo: "video", src: "media/videos/Ellie_Idol-1859345269046817181-01.mp4"},
-{ tipo: "video", src: "media/videos/Ellie_Idol-1860070500191379940-01.mp4"},
-{ tipo: "video", src: "media/videos/Ellie_Idol-1860433894870483380-01.mp4"},
-{ tipo: "video", src: "media/videos/Ellie_Idol-1860796785847074997-01.mp4"},
-{ tipo: "video", src: "media/videos/Ellie_Idol-1861159928653545482-01.mp4"},
-{ tipo: "video", src: "media/videos/Ellie_Idol-1861522822197321815-01.mp4"},
-{ tipo: "video", src: "media/videos/Ellie_Idol-1861885962906689738-01.mp4"},
-{ tipo: "video", src: "media/videos/Ellie_Idol-1862251118790668668-01.mp4"},
-{ tipo: "video", src: "media/videos/Ellie_Idol-1862867682007150899-01.mp4"},
-{ tipo: "video", src: "media/videos/Ellie_Idol-1973612154373939695-01.mp4"},
-{ tipo: "video", src: "media/videos/Ellie_Idol-1973873375928795274-01.mp4"},
-{ tipo: "video", src: "media/videos/Ellie_Idol-1974236015364624591-01.mp4"},
-{ tipo: "video", src: "media/videos/Ellie_Idol-1976318500164730922-01.mp4"},
-{ tipo: "video", src: "media/videos/Ellie_Idol-1976318817669411314-01.mp4"},
-{ tipo: "video", src: "media/videos/iWantClips-2014537137060811246-01.mp4"}
+{ tipo: "video", src: "media/videos/crystalknight_-2031460895138660636-01.mp4"}
 
 
 
@@ -204,6 +185,7 @@ popupsActivos.push(popup);
 
 
 });
+
 
 
 
